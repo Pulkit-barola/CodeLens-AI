@@ -216,17 +216,6 @@ The analyzer detects risky patterns such as:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after deployment.
-
-### Analyzer
-
-![Analyzer](screenshots/analyzer.png)
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
 
 ---
 
